@@ -6,14 +6,14 @@ const products = ref([
   {
     id: 1,
     img: 'http://localhost:3000/images/p1.png',
-    name: 'Ring',
+    name: 'Car',
     price: '$200',
     new: true
   },
   {
     id: 2,
     img: 'http://localhost:3000/images/p2.png',
-    name: 'Watch',
+    name: 'LEGO',
     price: '$300',
     new: true
   },
